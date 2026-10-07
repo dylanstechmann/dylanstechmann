@@ -2,7 +2,7 @@
 
 Computational regenerative medicine and geroscience tooling. The repositories are research artifacts. They are not clinical advice, dosing guidance, or a biological-age clock.
 
-Student at Florida Atlantic University (MS, Artificial Intelligence). Experimental projects, often built with AI-assisted coding. Hobby use first; no lab-collaboration pitch.
+Student at Florida Atlantic University (MS, Artificial Intelligence). These are personal hobby and learning projects, developed with substantial assistance from AI coding tools.
 
 ## Start here
 
